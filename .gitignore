@@ -1,0 +1,34 @@
+# Compiled files
+*.class
+target/
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Maven
+log/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+
+# Mac OS
+.DS_Store
+
+# Eclipse (jeśli ktoś używa)
+.classpath
+.project
+.settings/
+
+# NetBeans
+nb-configuration.xml
